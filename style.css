@@ -367,6 +367,10 @@
     .join {
         font-size: 43px;
     }
+    .landing-img {
+        width: 389px;
+        height: 389px;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
