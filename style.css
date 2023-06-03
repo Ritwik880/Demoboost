@@ -371,6 +371,12 @@
         width: 389px;
         height: 389px;
     }
+    .demo{
+        width: 100%;
+    }
+    .card{
+        width: 100%;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
