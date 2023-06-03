@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,700;1,400&family=Roboto:wght@700&family=Rubik&display=swap');
+
 * {
-    padding: 0;
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
 }
 
 .navbar-brand {
@@ -90,8 +93,6 @@
 }
 
 .result {
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -104,8 +105,6 @@
 }
 
 .expect {
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 800;
     font-size: 48px;
     line-height: 58px;
@@ -156,8 +155,6 @@
 }
 
 .card-title {
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 800;
     font-size: 20px;
     line-height: 28px;
@@ -168,8 +165,6 @@
 }
 
 .card-text {
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -233,8 +228,6 @@
     background: #FFFFFF;
     border-radius: 4px;
     border: none;
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 24px;
@@ -295,8 +288,6 @@
 }
 
 .useCases {
-    font-family: 'Inter';
-    font-style: normal;
     font-weight: 500;
     font-size: 12px;
     line-height: 18px;
